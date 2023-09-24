@@ -87,8 +87,8 @@ namespace Broker
                          Console.WriteLine($"{e.Message}");
                          var address = connection.Socket.RemoteEndPoint.ToString();
 
+                         ConnectionsStorage.Remove(address);
                          connection.Socket.Close();
-                         // stergem din storage
                     }
                }
         }

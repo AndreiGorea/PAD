@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker", "Broker\Broker.csproj", "{C9651867-EE00-44CC-B193-DED67020DCE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{27D2868D-81CD-443C-A673-E34F0E8BBD81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C9651867-EE00-44CC-B193-DED67020DCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9651867-EE00-44CC-B193-DED67020DCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9651867-EE00-44CC-B193-DED67020DCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D2868D-81CD-443C-A673-E34F0E8BBD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D2868D-81CD-443C-A673-E34F0E8BBD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D2868D-81CD-443C-A673-E34F0E8BBD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D2868D-81CD-443C-A673-E34F0E8BBD81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
 ﻿using Common;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,16 @@ namespace Broker
           {
                var payloadString = Encoding.UTF8.GetString(payloadBytes);
 
-            Console.WriteLine(payloadString);
+               if (payloadString.StartsWith("subscribe#")) 
+               {
+                    connectionInfo.Topic = payloadString.Split(new[] { '#' }).LastOrDefault();
+                    ConnectionsStorage.Add(connectionInfo);
+               }
+               else
+               {
+                    Payload payload = JsonConvert.DeserializeObject<Payload>(payloadString);
+                    PayloadStorage.Add(payload);
+               }
         }
      }
 }

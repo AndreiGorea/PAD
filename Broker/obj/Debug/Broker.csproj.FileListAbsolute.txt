@@ -8,3 +8,5 @@ C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.cspro
 C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.csproj.CopyComplete
 C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.exe
 C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.pdb
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Newtonsoft.Json.xml

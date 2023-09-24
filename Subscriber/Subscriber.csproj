@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C9651867-EE00-44CC-B193-DED67020DCE5}</ProjectGuid>
+    <ProjectGuid>{27D2868D-81CD-443C-A673-E34F0E8BBD81}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Broker</RootNamespace>
-    <AssemblyName>Broker</AssemblyName>
+    <RootNamespace>Subscriber</RootNamespace>
+    <AssemblyName>Subscriber</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,13 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BrokerSocket.cs" />
-    <Compile Include="ConnectionsStorage.cs" />
     <Compile Include="PayloadHandler.cs" />
-    <Compile Include="PayloadStorage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Worker.cs" />
+    <Compile Include="SubscriberSocket.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
