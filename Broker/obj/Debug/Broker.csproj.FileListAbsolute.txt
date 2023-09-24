@@ -1,0 +1,10 @@
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Broker.exe.config
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Broker.exe
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Broker.pdb
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Common.dll
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\bin\Debug\Common.pdb
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.csproj.AssemblyReference.cache
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.csproj.CopyComplete
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.exe
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Broker\obj\Debug\Broker.pdb

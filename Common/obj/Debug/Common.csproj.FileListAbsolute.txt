@@ -1,0 +1,6 @@
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Common\bin\Debug\Common.dll
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Common\bin\Debug\Common.pdb
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Common\obj\Debug\Common.dll
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Common\obj\Debug\Common.pdb

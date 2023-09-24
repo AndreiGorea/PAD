@@ -1,0 +1,12 @@
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Publisher.exe.config
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Publisher.exe
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Publisher.pdb
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Common.dll
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Common.pdb
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\obj\Debug\Publisher.csproj.AssemblyReference.cache
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\obj\Debug\Publisher.exe
+C:\Users\Gorea Andrei\source\repos\Agent Mesagerie\Publisher\obj\Debug\Publisher.pdb
